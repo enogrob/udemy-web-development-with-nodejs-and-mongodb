@@ -18,26 +18,26 @@ A practical guide to building an interactive and fully-featured web application 
 Section: 1
 0 / 5
 Getting to Know NodeJS
-[ ] 1. The Course Overview 3:26
-[ ] 2. NodeJS Basics 4:13
-[ ] 3. Blocking Versus Non-blocking Code 6:13
-[ ] 4. Setting Up Your Environment 5:43
-[ ] 5. Hello Workout 9:11
+[x] 1. The Course Overview 3:26
+[x] 2. NodeJS Basics 4:13
+[x] 3. Blocking Versus Non-blocking Code 6:13
+[x] 4. Setting Up Your Environment 5:43
+[x] 5. Hello Workout 9:11
 
 Section: 2
 0 / 5
 Understanding NodeJS Apps
-[ ] 6. CommonJS 3:48
-[ ] 7. Npm 7:18
-[ ] 8. The Event Loop 8:14
-[ ] 9. Working with Streams 6:02
-[ ] 10. Working with Files 5:16
+[x] 6. CommonJS 3:48
+[x] 7. Npm 7:18
+[x] 8. The Event Loop 8:14
+[x] 9. Working with Streams 6:02
+[x] 10. Working with Files 5:16
 
 Section: 3
 0 / 5
 Creating MVC Apps with ExpressJS
-[ ] 11. ExpressJS Basics 4:39
-[ ] 12. MVC 5:29
+[~] 11. ExpressJS Basics 4:39
+[~] 12. MVC 5:29
 [ ] 13. Routing 4:13
 [ ] 14. Scaffolding an App 7:34
 [ ] 15. Templating with Handlebars 5:32
@@ -54,7 +54,6 @@ Persisting with MongoDB
 
 Section: 5
 0 / 5
-Communicating with RESTful APIs
 [ ] 22. RESTful APIs 7:18
 [ ] 23. Serving APIs 5:52
 [ ] 24. Consuming on the Server-side 6:33
