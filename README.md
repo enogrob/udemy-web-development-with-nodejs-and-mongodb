@@ -36,8 +36,8 @@ Understanding NodeJS Apps
 Section: 3
 0 / 5
 Creating MVC Apps with ExpressJS
-[~] 11. ExpressJS Basics 4:39
-[~] 12. MVC 5:29
+[x] 11. ExpressJS Basics 4:39
+[x] 12. MVC 5:29
 [ ] 13. Routing 4:13
 [ ] 14. Scaffolding an App 7:34
 [ ] 15. Templating with Handlebars 5:32
